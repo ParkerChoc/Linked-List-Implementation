@@ -39,8 +39,3 @@ OUTSIDE INFLUENCE
     Some algorithms were insipred by outside sources, however all of the work
     is mine and I have done my best to comment my thought process through the 
     sorting algorithms and prime number function. 
-    
-    As can be expeced I suppose, my work is simmilar to online sources, 
-    however this seems like a sort of natural conclusion as I have built the
-    algorithms to be as efficinet as I can.
-
